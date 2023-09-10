@@ -1,0 +1,208 @@
+
+body {
+
+    margin-top: 0;
+    overflow-x: hidden;
+    margin-right: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+header {
+
+   background: #1e90ff;
+   position: relative;
+   height: 70px;
+   
+}
+
+nav {
+
+    display: flex;
+    justify-content: end;
+    position: relative;
+    right: 331px;
+    top: 10px;
+}
+
+
+nav a {
+
+    padding-left: 20px;
+    text-decoration: none;
+    color: azure;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+
+header div nav .social-media-icons {
+
+    position: relative;
+    left: 158px;
+    top: 4px;
+}
+
+header div nav .social-media-icons div i {
+
+    padding-left: 10px;
+}
+
+section .container .background {
+    background-image: url(images/6654e6-min\(2\).jpg);
+    height: 810px;
+    width: 100%;
+    background-repeat: no-repeat;
+    filter: brightness(70%);
+}
+
+section .section-heading h1  {
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 72px;
+    margin: 0;
+    color: white;
+    position: relative;
+    bottom: 720px;
+    margin-left: 150px;
+    will-change: transform, opacity;
+    animation-duration: 1500ms;
+    font-weight: 200;
+
+}
+
+h1-2  {
+    left: 0px;
+    bottom: 705px;
+}
+section .heading-3 {
+    position: relative;
+    bottom: 700px;
+    left: 150px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1px;
+    line-height: 1.4;
+}
+
+section .heading-3 button {
+
+    font-size: 0.875rem;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-weight: 600;
+    background-image: none;
+    border-style: solid;
+    margin: 38px auto 60px 0;
+    padding: 18px 51px 18px 50px;
+    background: transparent;
+    color: white;
+    border-color: ghostwhite;
+    border-radius: 7px;
+    transition: 1s;
+}
+
+section .heading-3 button:hover {
+    background-color: aliceblue;
+    color: black;
+}
+
+section .cards-container div  {
+    display: flex;
+    background: #1e90ff;
+    height: 134px;
+    position: relative;
+    top: -17px;
+}
+
+section .cards-container div h6 {
+    padding-left: 70px;
+    position: relative;
+    bottom: 70px;
+    left: 88px;
+    font-size: medium;
+}
+
+section .cards-container {
+    position: relative;
+    bottom: 357px;
+}
+
+section .data-title-container {
+    background-image: url(images/Untitled-2t-min.jpg);
+    height: 887px;
+    width: 1511px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cards-container div .services h6 {
+
+    background: white;
+    padding: 17px;
+    letter-spacing: 2px;
+    position: relative;
+    left: 17px;
+    top: 0px;
+    z-index: 3;
+
+}
+
+.cards-container div .services p {
+
+    background: black;
+    color: white;
+    padding: 17px;
+    position: relative;
+    z-index: 2;
+    padding-left: left;
+    padding-left: 32px;
+
+}
+
+
+.cards-container div .INdustry h6 {
+
+    position: relative;
+    top: 0px;
+    left: 28px;
+    background: white;
+    z-index: 2;
+    border-radius: unset;
+    padding: 8px;
+
+}
+.cards-container div .INdustry p {
+
+    position: relative;
+    background: black;
+    color: white;
+    top: 2px;
+    z-index: 1;
+    border-radius: 13px;
+    padding-left: 48px;
+    padding-top: 16px;
+
+}
+
+.cards-container div .CHannel h6 {
+
+    
+
+}
+.cards-container div .CHannel p {
+
+    
+
+}
+
+
+.cards-container div .MEEt h6 {
+
+    
+
+}
+.cards-container div .MEEt p {
+
+    
+
+}
